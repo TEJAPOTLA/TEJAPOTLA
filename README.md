@@ -10,10 +10,13 @@ I'm a Data Engineer with 3+ years of experience in ETL pipelines and data soluti
 - Explore advancements in Airflow and cloud platforms
 
 ### 🛠️ Technical Skills
-- **ETL/ELT Tools**: DataStage, Airflow, PySpark, Control-M
-- **Programming**: Python, SQL, Shell Scripting
-- **Cloud Platforms**: GCP (BigQuery, Dataflow)
-- **Databases**: Teradata, PostgreSQL, Oracle
+- **Data Engineering**: ETL/ELT Design, Data Pipelines, Data Warehousing, Data Modeling, Data Validation, Real-time Processing
+- **ETL Tools**: IBM DataStage, Apache Airflow, Apache Spark/PySpark, Control-M (Batch Scheduling)
+- **Programming**: Python, SQL, Unix Shell Scripting (ksh/bash), PySpark, Data Structures & Algorithms
+- **Databases**: Teradata, SQL Server, PostgreSQL, Data Lakes, Database Optimization
+- **Cloud Platforms**: Google Cloud Platform (GCP), BigQuery, Cloud Storage, Cloud Composer, Dataflow
+- **Tools & Technologies**: Git/GitHub, Jenkins, Pandas, NumPy, Data Quality Frameworks, Monitoring & Alerting
+- **Methodologies**: Agile/Scrum, CI/CD, Data Governance, Production Support
 
 ### 📜 Certifications
 - Astronomer Certification for Apache Airflow 3 Fundamentals
